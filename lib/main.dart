@@ -1,12 +1,8 @@
+import 'package:flame_module/screen/splash_screen.dart';
 import 'package:flutter/material.dart';
-
-import 'package:flame/flame.dart';
-import 'main_game_page.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Flame.device.fullScreen();
-  await Flame.device.setLandscape();
 
   runApp(const App());
 }
@@ -19,7 +15,7 @@ class App extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flame Demo',
-      home: MainGamePage(),
+      home: SplashScreen(),
     );
   }
 }
