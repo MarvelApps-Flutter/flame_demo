@@ -1,16 +1,43 @@
-# flame_module
+# flame_demo
 
-A new Flutter project.
+A flutter app demonstrating the use of different types of Chip.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Demo
+  <table>
+  <tr>
+  <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/working_demo/chip_module.gif" height="480px"></td>
+    </tr>
+  </table>
 
-A few resources to get you started if this is your first Flutter project:
+# Android Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/screenshots/android/android1.png" height="360px"></td></tr>
+    <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/screenshots/android/android2.png" height="360px"></td></tr>
+    <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/screenshots/android/android3.png" height="360px"></td></tr>
+ </table>
+ 
+ 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+</br>
+
+# IOS Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/screenshots/ios/ios1.png" height="360px"></td></tr>
+    <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/screenshots/ios/ios2.png" height="360px"></td></tr>
+    <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flame_demo/blob/dev/screenshots/ios/ios3.png" height="360px"></td></tr>
+ </table>
+ 
+
+
+
+
