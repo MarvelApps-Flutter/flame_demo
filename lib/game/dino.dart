@@ -124,9 +124,9 @@ class PlayerCharcter
   }
 
   void _reset() {
-    if (isMounted) {
-      shouldRemove = false;
-    }
+    // if (isMounted) {
+    //   shouldRemove = false;
+    // }
     anchor = Anchor.bottomLeft;
     position = Vector2(32, gameRef.size.y - 22);
     size = Vector2.all(24);

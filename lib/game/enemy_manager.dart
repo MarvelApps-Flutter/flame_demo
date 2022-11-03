@@ -38,9 +38,9 @@ class EnemyManager extends Component with HasGameRef<JungleRun> {
 
   @override
   void onMount() {
-    if (isMounted) {
-      shouldRemove = false;
-    }
+    // if (isMounted) {
+    //   shouldRemove = false;
+    // }
 
     if (_data.isEmpty) {
       _data.addAll([
