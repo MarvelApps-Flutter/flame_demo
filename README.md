@@ -1,6 +1,6 @@
 # Flame Module
 
-A flutter app demonstrating the use of different types of Chip.
+A flutter app demonstrating the use of flame engine for building 2D games.
 
 
 # Demo
